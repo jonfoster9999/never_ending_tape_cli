@@ -1,0 +1,44 @@
+{
+  "leads": [
+    {
+      "title": "Create songs for JonJaz",
+      "progress": [
+        {
+          "date": "Dec 30, 2018",
+          "info": "created sessions, decided on doing 'fellow man' and the piano song that's in C"
+        }
+      ],
+      "completed": false
+    },
+    {
+      "title": "Work with Jody from Silent Joe",
+      "progress": [
+        {
+          "date": "Dec 30, 2018",
+          "info": "Had a phone call, made plans to reach back out in the first or second week of Jan"
+        }
+      ],
+      "completed": false
+    },
+    {
+      "title": "Continue conversation with Ross",
+      "progress": [
+        {
+          "date": "Dec 30, 2018",
+          "info": "Will reach out in the New Year"
+        }
+      ],
+      "completed": false
+    },
+    {
+      "title": "Creating song for Gramoscope",
+      "progress": [
+        {
+          "date": "Dec 30, 2018",
+          "info": "Organized into stems"
+        }
+      ],
+      "completed": false
+    }
+  ]
+}

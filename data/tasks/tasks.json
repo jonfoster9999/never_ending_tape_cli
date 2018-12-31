@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "info": "Walk 100 blocks (dec 31)"
+    },
+    {
+      "info": "Docker vids (3)"
+    },
+    {
+      "info": "Finish supervisors on sync report"
+    },
+    {
+      "info": "CLI progress"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative '../lib/_never_ending_tape.rb'
+
+NeverEndingTape.new.call
